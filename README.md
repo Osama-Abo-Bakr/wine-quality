@@ -58,13 +58,13 @@ The quality of wine is influenced by various chemical properties. This project l
 ## Results
 
 - **Logistic Regression**:
-  - Training Accuracy: [0.87568412]
-  - Testing Accuracy: [0.89375]
+  - Training Accuracy: 0.87568412
+  - Testing Accuracy: 0.89375
 
 - **Random Forest Classifier**:
-  - Training Accuracy: [1.0]
-  - Testing Accuracy: [0.93125]
-  - Best Estimator: [(RandomForestClassifier(max_depth=10, n_estimators=24), 0.9014756944444444)]
+  - Training Accuracy: 1.0
+  - Testing Accuracy: 0.93125
+  - Best Estimator: (RandomForestClassifier(max_depth=10, n_estimators=24), 0.9014756944444444)
 
 ## Installation
 
